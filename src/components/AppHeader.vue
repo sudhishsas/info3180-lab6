@@ -1,5 +1,6 @@
 <template>
   <header>
+    
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
       <div class="container-fluid">
         <a class="navbar-brand" href="/">VueJS App</a>
